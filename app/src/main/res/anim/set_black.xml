@@ -1,0 +1,8 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true" >
+		
+		<scale
+		android:toYScale="5"
+		android.interpolator="AccelerateDecelerateInterpolator"/>
+		
+</set>
